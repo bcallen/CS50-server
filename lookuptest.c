@@ -20,6 +20,9 @@ int main(void)
     {
         printf("orange!\n");
     }
+    
+    
+    
     else
     {
         printf("give me fruit!\n");
